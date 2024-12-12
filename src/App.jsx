@@ -29,7 +29,7 @@ const siteProps = {
   email: "baylissp23@gmail.com",
   gitHub: "baylissp23",
   instagram: "",
-  linkedIn: "https://www.linkedin.com/in/paul-bayliss-76b173331/",
+  linkedIn: "paul-bayliss-76b173331",
   medium: "",
   twitter: "",
   youTube: "",
