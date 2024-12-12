@@ -27115,7 +27115,7 @@ var _stylesCss = require("./styles.css");
     email: "baylissp23@gmail.com",
     gitHub: "baylissp23",
     instagram: "",
-    linkedIn: "Paul Bayliss",
+    linkedIn: "https://www.linkedin.com/in/paul-bayliss-76b173331/",
     medium: "",
     twitter: "",
     youTube: ""
